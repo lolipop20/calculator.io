@@ -2,9 +2,9 @@
   --primary: #252525;
   --button-bg: grey;
   --button: #fff;
-  --operator: orange;
+  --operator: aqua;
   --hover-btn: darkgray;
-  --hover-op: darkorange;
+  --hover-op: aquamarine;
 }
 
 .calculator {
@@ -14,7 +14,7 @@
   width: 400px;
 }
 
-.calculator-screen {
+input {
   width: 100%;
   height: 100px;
   background-color: var(--primary);
